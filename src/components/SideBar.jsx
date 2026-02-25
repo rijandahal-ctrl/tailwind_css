@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import img1 from "../assets/images/abc.jpg";
+import img1 from "../assets/images/abc.JPG";
 
 const linkClasses = ({ isActive }) =>
   `flex items-center gap-4 px-4 py-3 rounded-lg transition-all duration-300
